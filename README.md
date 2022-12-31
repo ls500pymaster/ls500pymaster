@@ -9,14 +9,11 @@
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" />
 </p>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 <p align="center">
- <img width="600" src="assets/snake.svg" alt="snake"/>
+ <img width="600" src="assets/github-user-contribution.svg" alt="snake"/>
 </p>
 
-## [🖥My projects](markdown/main.md)  
+## [🖥My projects]([/markdown/main.md](https://github.com/ls500pymaster))  
 ## [📋My IT manuals](https://github.com/ls500pymaster)
 
 ## My Skill Set  
