@@ -12,7 +12,7 @@
 
 
 <p align="center">
- ![GitHub Snake dark](assets/snake.svg#gh-dark-mode-only)
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
 ## [🖥My projects](markdown/main.md)  
