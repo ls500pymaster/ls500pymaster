@@ -7,6 +7,10 @@
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" />
 </p>
 
+<p align="center">
+ <img width="600" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## [🖥My projects](markdown/main.md)  
