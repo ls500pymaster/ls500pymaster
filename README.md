@@ -13,12 +13,11 @@
  <img width="600" src="assets/github-user-contribution.svg" alt="snake"/>
 </p>
 
-## [🖥My projects]([/markdown/main.md](https://github.com/ls500pymaster))  
-## [📋My IT manuals](https://github.com/ls500pymaster)
+## [🖥 My projects]([/markdown/main.md](https://github.com/ls500pymaster))  
+## [📋 My IT manuals](https://github.com/ls500pymaster)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
@@ -28,7 +27,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
