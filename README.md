@@ -1,3 +1,6 @@
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 ls500pymaster </h1>
 
 <h3 align="center">Python Developer</h3>
@@ -10,8 +13,6 @@
 <p align="center">
  <img width="600" src="assets/snake.svg" alt="snake"/>
 </p>
-
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 ## [🖥My projects](markdown/main.md)  
 ## [📋My IT manuals](https://github.com/ls500pymaster)
