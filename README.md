@@ -1,5 +1,4 @@
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 
 <h1 align="center">👋 𝙷𝚎𝚕𝚕𝚘! 𝙸'𝚖 ls500pymaster </h1>
 
@@ -9,6 +8,8 @@
  <br>
  <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" />
 </p>
+
+![GitHub Snake dark](snake.svg#gh-dark-mode-only)
 
 <p align="center">
  <img width="600" src="assets/snake.svg" alt="snake"/>
