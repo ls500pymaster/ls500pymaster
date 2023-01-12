@@ -13,8 +13,14 @@
  <img width="600" src="assets/github-user-contribution.svg" alt="snake"/>
 </p>
 
-## [🖥 My projects]([/markdown/main.md](https://github.com/ls500pymaster))  
-## [📋 My IT manuals](https://github.com/ls500pymaster)
+## [🖥 My projects]
+##### [Audio to text telegram bot](https://github.com/ls500pymaster/audio_to_text_telegram_bot/tree/master "Audio to text telegram bot")
+##### [Youtube music to mp3 telegram bot](https://github.com/ls500pymaster/Telegram-Bot-Youtube-to-MP3 "Youtube music to mp3 telegram bot")
+
+
+## [📋 My IT manuals]
+
+##### [Mac M1 Terminal Setup](https://github.com/ls500pymaster/Mac-M1-Terminal-Setup "Mac M1 Terminal Setup")
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -25,7 +31,6 @@
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
 </div>
-
 </td><td valign="top" width="33%">
 
 
