@@ -14,6 +14,7 @@
 </p>
 
 ## [🖥 My projects]
+##### [LinkedIn Contacts Automation Selenium, Aiogram, Tg bot](https://github.com/ls500pymaster/LinkedIn_Scraping_Telegram_Bot)
 ##### [Audio to text telegram bot](https://github.com/ls500pymaster/audio_to_text_telegram_bot/tree/master "Audio to text telegram bot")
 ##### [Youtube music to mp3 telegram bot](https://github.com/ls500pymaster/Telegram-Bot-Youtube-to-MP3 "Youtube music to mp3 telegram bot")
 
