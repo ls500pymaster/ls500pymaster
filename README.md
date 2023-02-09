@@ -23,6 +23,10 @@
 
 ##### [Mac M1 Terminal Setup](https://github.com/ls500pymaster/Mac-M1-Terminal-Setup "Mac M1 Terminal Setup")
 
+## [📋 Learning]
+
+##### [Django (Celery, Postgresql, Memcached, Rabbitmq)](https://github.com/ls500pymaster/djangoProject_2)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
