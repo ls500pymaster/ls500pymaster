@@ -16,6 +16,7 @@
 ## [🖥 My projects]
 ##### [LinkedIn Contacts Automation using Selenium, Aiogram, Tg bot](https://github.com/ls500pymaster/LinkedIn_Scraping_Telegram_Bot)
 ##### [Aiogram bot Youtube video to mp3 audio file](https://github.com/ls500pymaster/Aiogram_Youtube_to_MP3 "Youtube music to mp3 telegram bot with Aiogram")
+##### [Aiogram bot Habits Tracker](https://github.com/ls500pymaster/Commando_Habits "This bot helps you to track habits")
 ##### [Audio to text telegram bot](https://github.com/ls500pymaster/audio_to_text_telegram_bot/tree/master "Audio to text telegram bot")
 
 
