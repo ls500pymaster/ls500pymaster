@@ -17,8 +17,6 @@
 ##### [LinkedIn Contacts Automation using Selenium, Aiogram, Tg bot](https://github.com/ls500pymaster/LinkedIn_Scraping_Telegram_Bot)
 ##### [Aiogram bot Youtube video to mp3 audio file](https://github.com/ls500pymaster/Aiogram_Youtube_to_MP3 "Youtube music to mp3 telegram bot with Aiogram")
 ##### [Aiogram bot Habits Tracker](https://github.com/ls500pymaster/Commando_Habits "This bot helps you to track habits")
-##### [Audio to text telegram bot](https://github.com/ls500pymaster/audio_to_text_telegram_bot/tree/master "Audio to text telegram bot")
-
 
 ## [📋 My IT manuals]
 
@@ -26,7 +24,7 @@
 
 ## [📋 Learning]
 
-##### [Django (Celery, Postgresql, Memcached, Rabbitmq)](https://github.com/ls500pymaster/djangoProject_2)
+##### [Django (Celery, Postgresql, Memcached, Rabbitmq, DRF, Docker, Asyncio, )](https://github.com/ls500pymaster/djangoProject_2)
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
