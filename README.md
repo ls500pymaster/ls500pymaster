@@ -25,7 +25,7 @@
 
 ## [📋 Learning]
 
-##### [Django (Celery, Postgresql, Memcached, Rabbitmq, DRF, Docker, Asyncio, )]
+##### [Django (Celery, Postgresql, Memcached, Rabbitmq, DRF, Docker, Asyncio)]
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
