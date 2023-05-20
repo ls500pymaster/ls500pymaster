@@ -14,9 +14,9 @@
 </p>
 
 ## [🖥 My projects]
-##### [LinkedIn Contacts Automation using Selenium, Aiogram, Tg bot](https://github.com/ls500pymaster/LinkedIn_Scraping_Telegram_Bot)
+##### [Django Rest Framework - Social Network](https://github.com/ls500pymaster/api_drf "This is a social app built with Django Rest Framework where users can sign up, create posts, and like 
 ##### [Aiogram bot Youtube video to mp3 audio file](https://github.com/ls500pymaster/Aiogram_Youtube_to_MP3 "Youtube music to mp3 telegram bot with Aiogram")
-##### [Django Rest Framework - Social Network](https://github.com/ls500pymaster/api_drf "This is a social app built with Django Rest Framework where users can sign up, create posts, and like posts.")
+posts.")
 
 ## [📋 My IT manuals]
 
