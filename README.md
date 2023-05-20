@@ -14,7 +14,7 @@
 </p>
 
 ## [🖥 My projects]
-##### [Django Rest Framework - Social Network](https://github.com/ls500pymaster/api_drf "This is a social app built with Django Rest Framework)
+
 ##### [Aiogram bot Youtube video to mp3 audio file](https://github.com/ls500pymaster/Aiogram_Youtube_to_MP3 "Youtube music to mp3 telegram bot with Aiogram")
 ##### [Aiogram bot Commando Habbits](https://github.com/ls500pymaster/Commando_Habits)
 ##### [Linkedin Scraper](https://github.com/ls500pymaster/LinkedIn_Scraping_Telegram_Bot)
