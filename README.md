@@ -1,8 +1,8 @@
 
 <h1 align="center">👋 Hello! I'm Alexander </h1>
 
-<h2 align="center">A Passionate Python Developer from Ukraine 🇺🇦 <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" /> </h2>
-</hr>
+<h3 align="center">A Passionate Python Developer from Ukraine 🇺🇦 <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" /> </h3>
+
 <b align="center">
 <ul> 🔭 I’m currently working on <b>Automation ETL data pipeliens for forecasting energy production from solar panels</b>
  </ul>
