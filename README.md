@@ -21,11 +21,9 @@
 </p>
 
 <h2 align="center">⚒️ Core Programming Languages and Frameworks ⚒️</h2>
-</hr>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=py,django,fastapi,flask,react,css,html,jquery" />
 </div>
-<hr/>
 
 <h2 align="center">⚒️  Tools, Databases, and Other Technologies ⚒️</h2>
 </hr>
