@@ -3,8 +3,6 @@
 
 <p align="center">A Passionate Python Developer from Ukraine 🇺🇦 <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" /> </p>
 
-<hr align="center">
-</hr>
 <b align="center">
 <ul> 🔭 I’m currently working on <b>Automation ETL data pipeliens for forecasting energy production from solar panels</b>
  </ul>
