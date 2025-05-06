@@ -1,10 +1,10 @@
 
 <h1 align="center">👋 Hello! I'm Alexander </h1>
 
-<h3 align="center">A Passionate Python Developer from Ukraine 🇺🇦 <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" /> </h3>
+<h3 align="center">A Passionate Full Stack Engineer from Ukraine 🇺🇦 <img alt="codeSTACKr's GitHub Stats" src="https://komarev.com/ghpvc/?username=your-github-ls500pymaster&color=green" /> </h3>
 
 <b align="center">
-<ul> 🔭 I’m currently working on <b>Automation ETL data pipeliens for forecasting energy production from solar panels</b>
+<ul> 🔭 I’m currently working on <b>Full Stack App to create big data reports.</b>
  </ul>
 
 <ul> 🌱 I’m currently learning <b>QA Automation, DevOps, AWS, React</b></ul>
