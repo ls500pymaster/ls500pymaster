@@ -7,7 +7,7 @@
 <ul> 🔭 I’m currently working on <b>Full Stack App to create big data reports.</b>
  </ul>
 
-<ul> 🌱 I’m currently learning <b>QA Automation, DevOps, AWS, React</b></ul>
+<ul> 🌱 I’m currently learning <b>Big Data, DevOps, AWS, React</b></ul>
 <ul>💬 Ask me about <b>Python, Django, FastAPI... or anything 
 <a href="https://github.com/ls500pymaster/ls500pymaster/issues">here</a></b></ul>
 <ul>⚡ Fun fact <b>Python is named after a TV show</b> </ul>
